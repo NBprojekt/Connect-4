@@ -1,0 +1,11 @@
+c:\users\bartko\documents\visual studio 2017\Projects\Connect4\obj\Debug\Connect4.csprojResolveAssemblyReference.cache
+c:\users\bartko\documents\visual studio 2017\Projects\Connect4\obj\Debug\Connect4.Login.resources
+c:\users\bartko\documents\visual studio 2017\Projects\Connect4\obj\Debug\Connect4.Properties.Resources.resources
+c:\users\bartko\documents\visual studio 2017\Projects\Connect4\obj\Debug\Connect4.csproj.GenerateResource.Cache
+c:\users\bartko\documents\visual studio 2017\Projects\Connect4\bin\Debug\Connect4.exe.config
+c:\users\bartko\documents\visual studio 2017\Projects\Connect4\bin\Debug\Connect4.exe
+c:\users\bartko\documents\visual studio 2017\Projects\Connect4\bin\Debug\Connect4.pdb
+c:\users\bartko\documents\visual studio 2017\Projects\Connect4\obj\Debug\Connect4.exe
+c:\users\bartko\documents\visual studio 2017\Projects\Connect4\obj\Debug\Connect4.pdb
+c:\users\bartko\documents\visual studio 2017\Projects\Connect4\obj\Debug\Connect4.Game.resources
+c:\users\bartko\documents\visual studio 2017\Projects\Connect4\obj\Debug\Connect4.Tutorial.resources
