@@ -12,10 +12,23 @@ The good old 'connect 4' is a classic board game and a must have in every househ
 
 Or you just play it on your computer. Just grab a friend and lets go!
 
+![Screenshot](/pic/screenshot2.png)
+
 
 ## Play
 
-![Screenshot](/screenshot.png)
+To play the game you just need to run `Connect4.exe`, <br>
+enter you'r names and have fun !
+
+
+![Screenshot](/pic/screenshot1.png)
+
+### Required :
+ 
+ + One friend
+ + min Windows 7
+ + Nothing better to do
+
 
 ## License
 
