@@ -1,5 +1,4 @@
-# Digital-Analog-Converter
-
+# Connect 4
 ![Release](https://img.shields.io/badge/release-v1.0-orange.svg)
 ![Build](https://img.shields.io/badge/build-completed-orange.svg)
 [![Stars](https://img.shields.io/github/stars/NBprojekt/Connect-4.svg)](https://github.com/NBprojekt/Connect-4/stargazers)
